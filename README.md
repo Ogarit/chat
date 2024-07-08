@@ -8,6 +8,6 @@ python server.py
 ```
 
 Agora pode iniciar a simulação digitando no terminal:
-```cmd
+```Bash
 python view.py
 ```
